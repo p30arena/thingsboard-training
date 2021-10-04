@@ -11,7 +11,7 @@ DHTesp DHT;
 #define WIFI_AP             "wifi name"
 #define WIFI_PASSWORD       "-------"
 #define TOKEN               "access_token"
-#define THINGSBOARD_SERVER  "185.8.175.221"
+#define THINGSBOARD_SERVER  "tb-srv.abreman.ir"
 #define SERIAL_DEBUG_BAUD   9600
 
 WiFiClient espClient;
